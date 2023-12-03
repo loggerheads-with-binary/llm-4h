@@ -1,0 +1,8 @@
+langchain 
+gpt4all 
+openllm
+bs4 
+langchainhub 
+openai 
+pypdf 
+python-dotenv 
